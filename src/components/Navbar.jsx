@@ -10,7 +10,7 @@ export default function Navbar() {
       <nav className='w-screen h-[50px] flex items-center border-b-2 border-black'>
         <div className='w-[20%] h-[90]  flex items-center justify-center gap-[10px] '>
             <span className='rounded-full bg-black w-[40px] h-[40px]'><img className='h-[100%] w-[100%]' src={imp} alt="logo"  /></span> 
-            <Link to='/' className='text-[27px] text-black '>Asad Medico's</Link>
+            <Link to='/' className='text-[27px] text-black '>Asad</Link>
             </div>
         <div className='w-[50%] h-full flex items-center justify-center'>
             
