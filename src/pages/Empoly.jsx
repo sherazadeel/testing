@@ -10,7 +10,7 @@ function Empoly() {
             <input type="password" placeholder='Enter Password' className='w-[60%] h-[40px] border-none outline-none  pl-[20px] rounded-xl'/>
         </form>
         <div className='flex item-center justify-around'>
-            <Link to='/Empoly/login' className='w-[100px] flex items-center justify-center bg-[red] text-[20px] p-[5px] rounded-2xl text-white'>Log-in</Link>
+            <Link to='/Empoly/login' className='w-[100px] flex items-center justify-center bg-[red] text-[20px] p-[5px] rounded-2xl text-white'>Log In</Link>
             <Link to="/Empoly/sign-up" className='underline mt-[20px]'>Create Account</Link>
         </div>
       </div>
